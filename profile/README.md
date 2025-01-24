@@ -11,7 +11,7 @@ curl https://asahi-alarm.org/installer-bootstrap.sh | sh
 **Follow the installation instructions in the script to the letter.**
 
 We have pre-built images for GNOME and KDE (Plasma). If you want something else, choose the Minimal install and follow
-the [manual installation](manual-install.md#manual-installation) steps.
+the [manual installation](https://github.com/asahi-alarm/asahi-alarm/blob/main/manual-install.md) steps.
 
 ## Switch from the old asahi repo to this one
 
